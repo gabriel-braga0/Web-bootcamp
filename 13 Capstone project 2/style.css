@@ -1,0 +1,36 @@
+.bg-pallete-1{
+    background: #17153B;
+}
+.bg-pallete-2{
+    background: #2E236C;
+}
+.bg-pallete-3{
+    background: #433D8B;
+}
+.bg-pallete-4{
+    background: #C8ACD6;
+}
+.text-pallete-1{
+    color: #17153B;
+}
+.text-pallete-2{
+    color: #2E236C;
+}
+.text-pallete-3{
+    color: #433D8B;
+}
+.text-pallete-4{
+    color: #C8ACD6;
+}
+h1 {
+    font-family: "Shadows Into Light", cursive;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+p{
+    font-family: "Quicksand", sans-serif;
+}
+
